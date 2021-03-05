@@ -144,6 +144,7 @@ import (
 	_ "github.com/influxdata/telegraf/plugins/inputs/puppetagent"
 	_ "github.com/influxdata/telegraf/plugins/inputs/rabbitmq"
 	_ "github.com/influxdata/telegraf/plugins/inputs/raindrops"
+	_ "github.com/influxdata/telegraf/plugins/inputs/random"
 	_ "github.com/influxdata/telegraf/plugins/inputs/ras"
 	_ "github.com/influxdata/telegraf/plugins/inputs/redfish"
 	_ "github.com/influxdata/telegraf/plugins/inputs/redis"
